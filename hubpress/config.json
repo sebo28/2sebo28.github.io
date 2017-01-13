@@ -1,9 +1,9 @@
+
 {
   "meta": {
     "username": "sebo28",
-    "repositoryName": "dev.sebo28.github.io"
-    "branch": "gh-pages",
-"cname": "dev.sebo28.github.io"
+    "repositoryName": "sebo28.github.io",
+    "branch": "master"
   },
   "theme": {
     "name": "Casper"
