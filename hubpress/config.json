@@ -4,9 +4,11 @@
     "repositoryName": "sebo28.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "ADIMLA"
+  },
   "socialnetwork": {},
   "theme": {
-    "name": "ghostium"
+    "name": "ichi"
   }
 }
