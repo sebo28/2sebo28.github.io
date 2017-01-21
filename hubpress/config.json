@@ -6,7 +6,7 @@
   },
   "site": {
     "title": "ADIMLA",
-    "logo": "image::http://github.com/<sebo28>/<repositoryName>/images/<logo.png>[]"
+    "logo": "image::http://github.com/<sebo28>/<images>/images/<logo.png>[]"
   },
   "socialnetwork": {},
   "theme": {
