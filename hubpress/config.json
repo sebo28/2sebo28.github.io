@@ -1,11 +1,12 @@
-
 {
   "meta": {
     "username": "sebo28",
     "repositoryName": "sebo28.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "ghostium"
   }
 }
