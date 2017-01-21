@@ -5,7 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "title": "ADIMLA"
+    "title": "ADIMLA",
+    "logo": "logo.png"
   },
   "socialnetwork": {},
   "theme": {
