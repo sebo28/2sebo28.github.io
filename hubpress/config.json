@@ -2,7 +2,8 @@
   "meta": {
     "username": "sebo28",
     "repositoryName": "sebo28.github.io",
-    "branch": "master"
+    "branch": "master",
+    "delay": "100"
   },
   "site": {
     "title": "ADIMLA",
